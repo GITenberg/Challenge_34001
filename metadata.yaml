@@ -1,0 +1,28 @@
+_repo: Challenge_34001
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Untermeyer, Louis
+    birthdate: 1885
+    deathdate: 1977
+    gutenberg_agent_id: '32242'
+    url: http://www.gutenberg.org/2009/agents/32242
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Untermeyer
+description: ''
+gutenberg_issued: '2010-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34001'
+  lccn: '14007716'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry'
+- !lcc 'PS'
+title: Challenge
+url: http://www.gutenberg.org/ebooks/34001
